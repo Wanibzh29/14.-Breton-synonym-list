@@ -12,6 +12,8 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
 
 You will find an exhaustive list of sinonim words in Breton.
 
+It will be a draft for a thesis about: Development of the semantic competence of Breton speakers by setting up an online thesaurus and creating a system for detecting and proposing synonyms?
+
 ## III. This project is based on
 
 French synonyms: http://dicocitations.lemonde.fr/dictionnaire-synonymes.php
